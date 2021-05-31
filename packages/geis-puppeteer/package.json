@@ -28,7 +28,7 @@
     },
     "devDependencies": {
         "@geislabs/browse": "^0.0.53",
-        "@geislabs/file": "^0.0.53",
-        "@geislabs/html": "^0.0.60"
+        "@geislabs/file": "^0.0.60",
+        "@geislabs/html": "^0.0.63"
     }
 }

@@ -28,11 +28,11 @@
         "inversify": "^5.0.5"
     },
     "devDependencies": {
-        "@geislabs/file": "^0.0.53",
+        "@geislabs/file": "^0.0.60",
         "@geislabs/geis-core": "^0.0.45",
         "@geislabs/geis-resource": "^0.0.53",
         "@geislabs/geis-type": "^0.0.45",
-        "@geislabs/html": "^0.0.60",
+        "@geislabs/html": "^0.0.63",
         "@geislabs/protocol": "^0.0.47",
         "cheerio": "^1.0.0-rc.9"
     }
