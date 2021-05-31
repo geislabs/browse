@@ -5,7 +5,7 @@ import {
     AnySessionAttrs,
     isReused,
 } from '@geislabs/geis-browse'
-import { PendingFile } from '@geislabs/geis-file'
+import { PendingFile } from '@geislabs/file'
 import { Html } from '@geislabs/html'
 import { Browser, launch, Page } from 'puppeteer-core'
 import { PuppeteerConfig } from './puppeteerConfig'

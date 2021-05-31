@@ -1,4 +1,4 @@
-import type { FileAdapter } from '@geislabs/geis-file'
+import type { FileAdapter } from '@geislabs/file'
 import { LaunchOptions, PuppeteerLifeCycleEvent } from 'puppeteer-core'
 
 export interface PuppeteerConfig {

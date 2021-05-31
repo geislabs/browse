@@ -1,5 +1,5 @@
 import { ResourceAdapter } from '@geislabs/geis-resource'
-import { FileAdapter } from '@geislabs/geis-file'
+import { FileAdapter } from '@geislabs/file'
 import { AnySession } from './sessionTypes'
 import { AnySessionAttrs } from './sessionAttrs'
 

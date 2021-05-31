@@ -10,11 +10,11 @@
         "release:patch": "git add -A && git commit -am \"released\" --allow-empty && lerna version patch --yes --force-publish",
         "test:coverage": "jest --collect-coverage",
         "test": "jest",
-        "test:unit": "jest --testPathIgnorePatterns packages/geis-e2e",
-        "test:e2e": "jest \"packages/geis-e2e\"",
+        "test:unit": "jest --testPathIgnorePatterns packages/browse-e2e",
+        "test:e2e": "jest \"packages/browse-e2e\"",
         "watch": "jest --watch",
-        "watch:e2e": "jest \"packages/geis-e2e\" --watch",
-        "watch:protocol": "jest \"packages/geis-protocol\" --watch",
+        "watch:e2e": "jest \"packages/browse-e2e\" --watch",
+        "watch:browse": "jest \"packages/browse-browse\" --watch",
         "prepare": "husky install"
     },
     "devDependencies": {
