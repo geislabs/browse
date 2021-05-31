@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "@geislabs/browse-e2e",
-    "version": "0.0.52",
+    "version": "0.0.53",
     "description": "> TODO: description",
     "author": "mads hargreave <mads.hargreave@gmail.com>",
     "homepage": "",
@@ -17,6 +17,6 @@
     },
     "scripts": {},
     "devDependencies": {
-        "@geislabs/browse": "^0.0.52"
+        "@geislabs/browse": "^0.0.53"
     }
 }
