@@ -1,6 +1,6 @@
 {
     "name": "@geislabs/puppeteer",
-    "version": "0.0.49",
+    "version": "0.0.50",
     "description": "> TODO: description",
     "author": "mads hargreave <mads.hargreave@gmail.com>",
     "homepage": "",
@@ -27,8 +27,8 @@
         "puppeteer-core": "^9.1.1"
     },
     "devDependencies": {
-        "@geislabs/browse": "^0.0.49",
-        "@geislabs/file": "^0.0.49",
+        "@geislabs/browse": "^0.0.50",
+        "@geislabs/file": "^0.0.50",
         "@geislabs/html": "^0.0.60"
     }
 }
