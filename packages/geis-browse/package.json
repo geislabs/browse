@@ -29,11 +29,11 @@
     },
     "devDependencies": {
         "@geislabs/file": "^0.0.49",
-        "@geislabs/geis-resource": "^0.0.49",
         "@geislabs/geis-core": "^0.0.45",
+        "@geislabs/geis-resource": "^0.0.49",
         "@geislabs/geis-type": "^0.0.45",
-        "@geislabs/protocol": "^0.0.47",
         "@geislabs/html": "^0.0.60",
+        "@geislabs/protocol": "^0.0.47",
         "cheerio": "^1.0.0-rc.9"
     }
 }
